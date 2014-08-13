@@ -116,10 +116,6 @@ projects[imagefield_crop_extended][download][type] = "git"
 projects[imagefield_crop_extended][download][url] = "https://github.com/lhenze/imagefield_crop_extended.git"
 projects[imagefield_crop_extended][download][revision] = "2b292fd357e1be63054f80e9ec2f437b421aaaa7"
 
-projects[tabsnomore][type] = "module"
-projects[tabsnomore][download][type] = "git"
-projects[tabsnomore][download][url] = "http://git.drupal.org/sandbox/onkeltem/1730244.git"
-projects[tabsnomore][download][revision] = "03ab4283ba71220c988362357b79ff1a20daab6a"
 
 ; Themes
 projects[mediacommons][type] = "theme"
